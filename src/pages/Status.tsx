@@ -1,4 +1,5 @@
 import { FormEvent, KeyboardEvent, useState } from "react"
+import { PaperPlaneRight } from "phosphor-react"
 import { Header } from "../components/Header"
 import { Separator } from "../components/Separator"
 import { Tweet } from "../components/Tweet"
@@ -46,7 +47,7 @@ export function Status() {
                     }} value={newAnswer} onKeyDown={handleHotkeySubmit} id="tweet" placeholder="Tweet your answer" />
                 </label>
 
-                <button type="submit">Answer</button>
+                <button type="submit"><PaperPlaneRight /><span>Answer</span></button>
             </form>
 
 
