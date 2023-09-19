@@ -12,7 +12,7 @@ export function Sidebar() {
             <nav className="main-navegation">
                 <NavLink to="/" ><House weight="fill" /><span>Home</span></NavLink>
                 <a href=""><Hash /><span>Explore</span></a>
-                <a href=""><Bell /><span>Notification</span></a>
+                <NavLink to="/notifications"><Bell /><span>Notification</span></NavLink>
                 <a href=""><Envelope /><span>Messages</span></a>
                 <a href=""><BookmarkSimple /><span>Bookmarks</span></a>
                 <a href=""><FileText /><span>Lists</span></a>

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import './Tweet.css';
 
 export function Tweet(props) {
-    //console.log(props);
+    console.log(props);
     return (
         <Link to="/status" className="tweet">
             <img src="https://github.com/brunolimadevelopment.png" alt="Bruno Lima" />

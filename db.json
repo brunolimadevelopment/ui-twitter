@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "thumb": "https://avatars.githubusercontent.com/u/20023147?v=4",
+            "name": "Bruno Lima",
+            "user": "@brunodevops",
+            "tweets": []
+        },
+        {
+            "id": "2",
+            "thumb": "https://avatars.githubusercontent.com/webjoaoneto",
+            "name": "João Neto",
+            "user": "@jgneto",
+            "tweets": []
+        },
+        {
+            "id": "3",
+            "thumb": "https://avatars.githubusercontent.com/fittipaldi",
+            "name": "Gustavo Fittipaldi",
+            "user": "@fittipalds",
+            "tweets": []
+        },
+        {
+            "id": "4",
+            "thumb": "https://avatars.githubusercontent.com/u/7817106?v=4",
+            "name": "Victor Nery",
+            "user": "@victornery",
+            "tweets": []
+        }
+    ]
+}
