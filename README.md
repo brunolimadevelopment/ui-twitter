@@ -1,27 +1,39 @@
-# React + TypeScript + Vite
+# UI Twitter #
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Alt text](/public/twitter.gif)
 
-Currently, two official plugins are available:
+Application scope documentation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+___
 
-## Expanding the ESLint configuration
+## 🚀 Technologies ##
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+This project was developed with the following technologies:
 
-- Configure the top-level `parserOptions` property like this:
++ React library  ✔
++ Phosphor react ✔
++ Json server ✔
++ Local forage ✔
++ Match sorter ✔
++ Sort-by ✔
++ Typescript ✔
+___
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## How To Use ##
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+To clone and run this application, you'll need Git,  installed on your computer. From your command line:
+
+    # Clone this repository
+        $ git clone https://github.com/brunolimadevelopment/ui-twitter
+
+
+
+___
+
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/brunolimadevelopment/ui-twitter/blob/main/MIT%20License.txt) for more information.
+
+___
+
+Made with ♥ by Bruno Lima 👋 [Get in touch](https://www.linkedin.com/in/bruno-lima-b6a034177/) !
